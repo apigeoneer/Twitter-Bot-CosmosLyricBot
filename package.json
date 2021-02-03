@@ -1,0 +1,21 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "Starting off with npm",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terrific",
+    "bot",
+    "twitter",
+    "npm",
+    "node"
+  ],
+  "author": "chixt",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
