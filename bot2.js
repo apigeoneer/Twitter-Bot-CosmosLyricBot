@@ -24,9 +24,9 @@ function tweetFollowReply(eventMsg) {
 
 
 
-// make a tweet every 12 hrs
-tweetIt();
-setInterval(tweetIt, 1000*60*60*12);
+// // make a tweet every 12 hrs
+// tweetIt();
+// setInterval(tweetIt, 1000*60*60*12);
 
 function tweetIt() {
 
